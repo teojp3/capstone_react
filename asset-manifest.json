@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/capstone_react/static/css/main.3a9f2ce0.css",
+    "main.js": "/capstone_react/static/js/main.27717c8e.js",
+    "static/js/787.27fa9907.chunk.js": "/capstone_react/static/js/787.27fa9907.chunk.js",
+    "static/media/irvins-logo.png": "/capstone_react/static/media/irvins-logo.7f683840c67912b69993.png",
+    "index.html": "/capstone_react/index.html",
+    "main.3a9f2ce0.css.map": "/capstone_react/static/css/main.3a9f2ce0.css.map",
+    "main.27717c8e.js.map": "/capstone_react/static/js/main.27717c8e.js.map",
+    "787.27fa9907.chunk.js.map": "/capstone_react/static/js/787.27fa9907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a9f2ce0.css",
+    "static/js/main.27717c8e.js"
+  ]
+}
