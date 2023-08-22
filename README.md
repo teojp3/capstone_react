@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The web application can be accessed here.(https://teojp3.github.io/capstone_react/)
+
 ## Available Scripts
 
 In the project directory, you can run:
